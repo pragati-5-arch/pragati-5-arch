@@ -1,5 +1,5 @@
 - Hello, I’m Pragati Vinod Rajput
-- I’m working as a Information Technology Engineer
+- I’m a Information Technology Engineer Student
 - Exploring Technical Content Writing
 
 
